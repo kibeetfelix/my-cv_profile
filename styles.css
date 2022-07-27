@@ -1,0 +1,12 @@
+/*your CSS code here*/
+/* <div> class ='heading'>FELIX KIBET RONO </div> */
+.heading {
+    font-size: 30px;
+    font-family: "Nosifer";
+}
+.intro {
+    align-content: center;
+    text-align: center;
+    color: yellow;
+    background-color: #2F5A78;
+}
