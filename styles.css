@@ -3,32 +3,22 @@
 .heading {
     font-size: 30px;
     font-family: "Nosifer";
-}
-.intro {
-    align-content: center;
-    text-align: center;
-    color: hsl(120, 92%, 49%);
-    background-color: #2F5A78;
-}
-
-
-/*coverpage {
-    padding:10px;
-    border-color: 5px solid red;
-}*/
-div.heading{
-    color:red;
-    font-family:"Times New Roman";
-    font-size:1.875em;
+    color:#ee19dc;
     font-weight:bold;
     letter-spacing:5px;
     text-align: center;
 }
-
+.intro {
+    align-content: center;
+    text-align: center;
+    color: #0972d3;
+    background-color: #f7e32f;
+}
 .headTitle{
     font-size:30px;
     font-family:georgian, "Times New Roman", Aerial;
     color: blue;
+    font-family: "Nosifer";
     text-align:center;
     text-decoration:underline;
 }
@@ -52,4 +42,14 @@ div.heading{
     text-transform:uppercase;
     /*word-spacing:15px;*/
     white-space:nowrap;
+}
+.subheading{
+    width:150px;
+    height:100px;
+    background-color:lightblue;
+    float: left;
+    overflow:scroll;
+}
+.clearing{
+    clear: both;
 }
